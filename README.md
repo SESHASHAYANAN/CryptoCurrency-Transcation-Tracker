@@ -1,2 +1,2 @@
-# CryptoCurrency-Transcation-Tracker
-Created with CodeSandbox
+# CryptoCurrency-Transaction-Tracker
+Track your cryptocurrency wallet using Tracker
